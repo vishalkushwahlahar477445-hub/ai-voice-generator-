@@ -1,0 +1,5 @@
+{
+  "name": "AI Voice Generator",
+  "description": "A professional text-to-speech application that uses AI to generate realistic human-like voices. Users can input text, select from various voices, control the speed, and instantly generate and download high-quality audio.",
+  "requestFramePermissions": []
+}
